@@ -1,0 +1,3 @@
+javac -cp "jars/*" com/example/test/RunCukesTest.java 
+jar -cf jars/RunCukesTest.jar com/
+
