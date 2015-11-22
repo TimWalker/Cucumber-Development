@@ -1,2 +1,2 @@
-java -cp "jars/*"  org.junit.runner.JUnitCore com.example.test.RunCukesTest
+java -cp "jars/*"  org.junit.runner.JUnitCore com.example.test.RunCukesTest .
 
